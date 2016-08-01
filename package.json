@@ -16,6 +16,9 @@
     "url": "https://github.com/reactjs/redux/issues"
   },
   "homepage": "http://redux.js.org",
+  "engines": {
+    "node": "5.9.1"
+  },
   "dependencies": {
     "babel-polyfill": "^6.3.14",
     "classnames": "^2.1.2",
